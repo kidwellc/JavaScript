@@ -1,0 +1,85 @@
+[
+{
+    "firstName": "jeff",
+    "lastName": "burt",
+    "homeAddress": "1234 Mayberry Lane",
+    "SID": "48764-938102-87462",
+    "goodSlave": "true",
+    "beatingsToDate": 127,
+    "family": {
+        "wife": {},
+        "husband": {
+            "firstName": "Torfelvin",
+            "lastName": "burt",
+            "homeAddress": "1234 Mayberry Lane",
+            "SID": "NS",
+            "goodSlave": "NS",
+            "beatingsToDate": -1
+        },
+        "children": [
+           {
+            "Designation": "Jeff Jr."
+           },
+           {
+       		"Designation": "Turtle Person"
+           },
+           {
+        	"Designation": "REDACTED"
+           }
+        ]
+    }
+},{
+    "firstName": "Jack",
+    "lastName": "Jack",
+    "homeAddress": "1600 Mayberry Lane",
+    "SID": "48764-938333-87462",
+    "goodSlave": "false",
+    "beatingsToDate": 13427,
+    "family": {
+        "wife": {
+            "firstName": "Jill",
+            "lastName": "Jack",
+            "homeAddress": "1600 Mayberry Lane",
+            "SID": "NS",
+            "goodSlave": "NS",
+            "beatingsToDate": -1
+        },
+        "husband": {},
+        "children": [
+           {
+            "Designation": "Jill Jr."
+           },
+           {
+       		"Designation": "Rug Rat"
+           }
+        ]
+    }
+},
+{
+    "firstName": "William",
+    "lastName": "Iver",
+    "homeAddress": "3423 Mayberry Lane",
+    "SID": "48764-938102-97462",
+    "goodSlave": "true",
+    "beatingsToDate": 1275,
+    "family": {
+        "wife": {
+            "firstName": "Ada",
+            "lastName": "Iver",
+            "homeAddress": "3423 Mayberry Lane",
+            "SID": "NS",
+            "goodSlave": "NS",
+            "beatingsToDate": -1
+        },
+        "husband": {},
+        "children": [
+           {
+            "Designation": "Natasha"
+           },
+           {
+        	"Designation": "REDACTED"
+           }
+        ]
+    }
+}
+]
